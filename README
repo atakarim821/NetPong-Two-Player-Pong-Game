@@ -1,0 +1,5 @@
+make command will generate a pingpong executable.
+
+./pingpong server <port num> will run as server 
+
+./pinpong client <ip_addr> <port num> will run as client 
