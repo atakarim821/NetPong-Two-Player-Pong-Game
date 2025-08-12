@@ -56,6 +56,3 @@ Follow the on-screen instructions to start a server or connect as a client.
 
 Feel free to open issues or submit pull requests to improve the game!
 
-## License
-
-[MIT License](LICENSE) (or specify your license)
