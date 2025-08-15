@@ -17,8 +17,7 @@ This is a simple command-line Ping Pong game implemented in C. The project demon
 │   ├── game.h
 │   └── net.h
 ├── Makefile
-├── pingpong
-├── README
+├── README.md
 └── src
     ├── game.c
     ├── net.c
